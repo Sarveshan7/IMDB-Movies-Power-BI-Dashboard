@@ -28,12 +28,9 @@ The dashboard lets users filter by year range, movie title, and genre, surfacing
 ## 🗂️ Repository Structure
 
 ```
-├── pbix/
-│   └── MOVIE.pbix              # Power BI Desktop file (data model + report)
+├── MOVIE.pbix              # Power BI Desktop file (data model + report)
 ├── screenshots/
 │   └── dashboard-overview.png  # Current dashboard preview image
-├── docs/
-│   └── dashboard-export.pdf    # PDF export for quick viewing without Power BI
 ├── README.md
 └── .gitignore
 ```
